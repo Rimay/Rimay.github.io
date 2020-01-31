@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on YI</title>
+    <link>http://rimay.github.io/posts/</link>
+    <description>Recent content in Posts on YI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 03 May 2018 21:08:01 +1000</lastBuildDate>
+    
+	<atom:link href="http://rimay.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://rimay.github.io/posts/hello-world/</link>
+      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
+      
+      <guid>http://rimay.github.io/posts/hello-world/</guid>
+      <description>Just saying hi!</description>
+    </item>
+    
+  </channel>
+</rss>

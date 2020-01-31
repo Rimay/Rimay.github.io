@@ -13,7 +13,7 @@
     <link>http://rimay.github.io/</link>
     <atom:link href="http://rimay.github.io/sermons/index.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 May 2018 09:06:46 &#43;1000</lastBuildDate>
+    <lastBuildDate>Sat, 1 Feb 2020 03:10:46 &#43;1000</lastBuildDate>
     <copyright></copyright>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>yili</itunes:author>
@@ -30,21 +30,18 @@
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>
     <generator>Hugo -- gohugo.io</generator><item>
-      <title>Word of God I (Table Talk)</title>
-      <itunes:author>Martin Luther</itunes:author>
-      <itunes:summary>Recording by Gillian Hedrie from Librivox</itunes:summary>
-      <description><![CDATA[<p>Recording by Gillian Hedrie from <a href="https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/">Librivox</a></p>
-]]></description>
-      <googleplay:description><![CDATA[<p>Recording by Gillian Hedrie from <a href="https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/">Librivox</a></p>
-]]></googleplay:description>
-      <content:encoded><![CDATA[<p>Recording by Gillian Hedrie from <a href="https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/">Librivox</a></p>
-]]></content:encoded><itunes:image href="http://rimay.github.io/img/freely-20445.jpg"/>
+      <title>我叫赵英俊 (改 革 春 风 吹 满 地， 中 国 人 民 真 蒸 汽)</title>
+      <itunes:author>Stan</itunes:author>
+      <itunes:summary></itunes:summary>
+      <description><![CDATA[]]></description>
+      <googleplay:description><![CDATA[]]></googleplay:description>
+      <content:encoded><![CDATA[]]></content:encoded><itunes:image href="http://rimay.github.io/img/freely-20445.jpg"/>
       
-       <enclosure url="//www.archive.org/download/table_talk_martin_luther_1801_librivox/tabletalk_05_luther_128kb.mp3" length="14076118" type="audio/mp3" />
-      <guid>//www.archive.org/download/table_talk_martin_luther_1801_librivox/tabletalk_05_luther_128kb.mp3</guid>
+       <enclosure url="https://sharefs.yun.kugou.com/202002010239/9ffa632b5b5f6e439059cccbd2c0acfb/G126/M05/07/0B/HocBAFqvHhqAbrT5ACclZSt7_sI891.mp3" length="2565477" type="audio/mp3" />
+      <guid>https://sharefs.yun.kugou.com/202002010239/9ffa632b5b5f6e439059cccbd2c0acfb/G126/M05/07/0B/HocBAFqvHhqAbrT5ACclZSt7_sI891.mp3</guid>
       <link>http://rimay.github.io/sermons/table-talk-word-of-god-i/</link>
-      <pubDate>Fri, 11 May 2018 09:06:46 +1000 </pubDate>
-      <itunes:duration>14:39</itunes:duration><itunes:keywords>bible, scripture, historical</itunes:keywords></item>
+      <pubDate>Sat, 01 Feb 2020 03:10:46 +1000 </pubDate>
+      <itunes:duration>2:40</itunes:duration></item>
     <item>
       <title>John Calvin: Institutes 2 11 (John 3:16)</title>
       <itunes:author>John Calvin</itunes:author>

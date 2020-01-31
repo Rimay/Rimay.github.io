@@ -6,44 +6,26 @@
     <description>Recent content in Tags on YI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 May 2018 13:49:50 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 02:35:00 +1000</lastBuildDate>
     
 	<atom:link href="http://rimay.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>bible</title>
-      <link>http://rimay.github.io/tags/bible/</link>
-      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      <title>testing</title>
+      <link>http://rimay.github.io/tags/testing/</link>
+      <pubDate>Sat, 01 Feb 2020 02:35:00 +1000</pubDate>
       
-      <guid>http://rimay.github.io/tags/bible/</guid>
+      <guid>http://rimay.github.io/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>historical</title>
       <link>http://rimay.github.io/tags/historical/</link>
-      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
       <guid>http://rimay.github.io/tags/historical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scripture</title>
-      <link>http://rimay.github.io/tags/scripture/</link>
-      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
-      
-      <guid>http://rimay.github.io/tags/scripture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>testing</title>
-      <link>http://rimay.github.io/tags/testing/</link>
-      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
-      
-      <guid>http://rimay.github.io/tags/testing/</guid>
       <description></description>
     </item>
     
@@ -53,6 +35,24 @@
       <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
       <guid>http://rimay.github.io/tags/redemption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theology</title>
+      <link>http://rimay.github.io/tags/theology/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
+      
+      <guid>http://rimay.github.io/tags/theology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ministry</title>
+      <link>http://rimay.github.io/tags/ministry/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>http://rimay.github.io/tags/ministry/</guid>
       <description></description>
     </item>
     

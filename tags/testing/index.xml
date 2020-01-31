@@ -6,15 +6,15 @@
     <description>Recent content in testing on YI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 May 2018 21:08:01 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 02:35:00 +1000</lastBuildDate>
     
 	<atom:link href="http://rimay.github.io/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World!</title>
+      <title>Hello World</title>
       <link>http://rimay.github.io/posts/hello-world/</link>
-      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 02:35:00 +1000</pubDate>
       
       <guid>http://rimay.github.io/posts/hello-world/</guid>
       <description>Just saying hi!</description>

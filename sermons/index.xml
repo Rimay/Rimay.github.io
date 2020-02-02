@@ -37,8 +37,8 @@
       <googleplay:description><![CDATA[]]></googleplay:description>
       <content:encoded><![CDATA[]]></content:encoded><itunes:image href="http://rimay.github.io/img/freely-20445.jpg"/>
       
-       <enclosure url="https://sharefs.yun.kugou.com/202002010239/9ffa632b5b5f6e439059cccbd2c0acfb/G126/M05/07/0B/HocBAFqvHhqAbrT5ACclZSt7_sI891.mp3" length="2565477" type="audio/mp3" />
-      <guid>https://sharefs.yun.kugou.com/202002010239/9ffa632b5b5f6e439059cccbd2c0acfb/G126/M05/07/0B/HocBAFqvHhqAbrT5ACclZSt7_sI891.mp3</guid>
+       <enclosure url="/audio/wjzyj.mp3" length="2565477" type="audio/mp3" />
+      <guid>/audio/wjzyj.mp3</guid>
       <link>http://rimay.github.io/sermons/table-talk-word-of-god-i/</link>
       <pubDate>Sat, 01 Feb 2020 03:10:46 +1000 </pubDate>
       <itunes:duration>2:40</itunes:duration></item>
